@@ -29,5 +29,50 @@
 //Em seguida, imprima na tela a seguinte mensagem:
 //O e-mail emailDoUsuario foi cadastrado com sucesso. Seja bem-vinda(o), nomeDoUsuario!
 
-const nomeDoUsuario = prompt("Qual é o seu nome?")
-const emailDoUsuario = prompt("Qual é o seu e-mail")
+//  const nomeDoUsuario = prompt("Qual é o seu nome?")
+//  const emailDoUsuario = prompt("Qual é o seu e-mail")
+
+// function imprimeOlaMundo() {
+//     console.log("Olá mundo!");
+// }
+// imprimeOlaMundo()
+// imprimeOlaMundo()
+// imprimeOlaMundo()
+// imprimeOlaMundo()
+// imprimeOlaMundo()
+// imprimeOlaMundo()
+
+
+// console.log('bom dia joy')
+// console.log("Oséias")
+
+// function CalculaAreaRetangulo(altura,largura) {
+//     const area = altura * largura
+//     console.log("Área do retangulo", area)
+// }
+// CalculaAreaRetangulo(5,6)
+// CalculaAreaRetangulo(10,10)
+// CalculaAreaRetangulo(5,7)
+// CalculaAreaRetangulo(10,15)
+// CalculaAreaRetangulo(6,4)
+
+// function imprimirOlaNome(nome) {
+//     console.log("Olá", nome)
+// }
+// imprimirOlaNome("Oseias")
+// imprimirOlaNome("Karina")
+// imprimirOlaNome("Walax")
+// imprimirOlaNome("Luiz Felipe")
+
+
+
+
+
+
+
+
+
+
+
+
+
